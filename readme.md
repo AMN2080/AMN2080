@@ -4,7 +4,7 @@
 <h1 align="center"> I'm Alireza😁 </h1>
 
 - **My Love:** JS Libraries & Frameworks in Front-End.
-- Newcomer but interested in Gnu/Linux world.
+- Interested in Gnu/Linux world.
 
 <h3 align="center">maybe you:</h3>
 <p align="center">
