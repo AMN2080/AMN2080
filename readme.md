@@ -13,6 +13,6 @@
 
 **Fun Fact:**
 
-"In order to make a perfect and beautiful machine, it is not requisite to know how to make it."
+"The best way to predict the future is to invent it."
 
--- Daniel Dennett
+-- Alan Kay
