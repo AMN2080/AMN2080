@@ -10,7 +10,7 @@
   <img src="https://c.tenor.com/osMRMnuwfM8AAAAC/star-wars.gif" />
 </p>
 
-- Interested in Gnu/Linux & Free/Open Source Softwares.
+- Interested in Gnu/Linux & Open Source/free Softwares.
 <p align="center">
   <img width="300px" src="https://i.kym-cdn.com/photos/images/newsfeed/002/243/406/43b.jpg" />
 </p>
