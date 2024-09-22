@@ -4,11 +4,15 @@
 <h1 align="center"> I'm Alireza😁 </h1>
 
 - **My Love:** JS Libraries & Frameworks in Front-End.
-- Interested in Gnu/Linux world.
 
 <h3 align="center">maybe you:</h3>
 <p align="center">
   <img src="https://c.tenor.com/osMRMnuwfM8AAAAC/star-wars.gif" />
+</p>
+
+- Interested in Gnu/Linux world.
+<p align="center">
+  <img width="300px" src="https://i.kym-cdn.com/photos/images/newsfeed/002/243/406/43b.jpg" />
 </p>
 
 **Fun Fact:**
